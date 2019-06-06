@@ -1,0 +1,36 @@
+---
+title: ""
+author: 
+- name: Matthew C. Nowlin 
+  affiliation: Department of Political Science 
+  affiliation2: College of Charleston 
+  email: nowlinmc@cofc.edu
+- name: 
+  affiliation: 
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscripts/american-political-science-association.csl
+output:
+  pdf_document:
+    keep_tex: yes
+    template: /Users/nowlinmc/Dropbox/Projects/Manuscripts/article.latex
+  word_document: default
+abstract: null
+conference: 
+...
+
+
+\newpage
+
+# Appendix
+\setcounter{table}{0}
+\renewcommand{\thetable}{A\arabic{table}}
+
+\newpage
+
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\singlespace
+\noindent
